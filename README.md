@@ -1,7 +1,4 @@
-# Project Title
-
-MANYFOLD Widgets for Notion
-
+# MANYFOLD Widgets for Notion
 ## Description
 
 Tools to make Notion use at MANYFOLD easier. 
@@ -34,7 +31,7 @@ Tools to make Notion use at MANYFOLD easier.
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Initial Release: Currency Converter 0.1
 
 ## License
 
